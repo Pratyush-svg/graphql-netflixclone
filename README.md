@@ -1,7 +1,7 @@
 <!--- STARTEXCLUDE --->
 # 🎓 Netflix Clone using Astra DB and GraphQL
 
-Find My Clone at the link below:</n>
+Find My Clone at the link:
 https://distracted-edison-752ebc.netlify.app/
 
 
